@@ -1,0 +1,29 @@
+body {
+  font-family:Arial, sans-serif;
+  background-color:beige;
+  color:#333333;
+  margin: 30px;
+}
+
+h1 {
+  color: darkgreen;
+  text-align: center;
+  font-size: 36px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+img {
+  width: 300px;
+  max-width: 100%;
+  height: auto;
+  margin: 15px 0;
+}
+
+.center-image {
+  display: block;
+  margin: 20px auto;
+}
